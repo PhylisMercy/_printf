@@ -33,6 +33,7 @@ int (*check_format(const char *format))(va_list)
 	}
 	return (p[i].f);
 }
+
 /**
  * _printf - function for format printing
  * @format: list of arguments to printing
