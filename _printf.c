@@ -2,17 +2,6 @@
 
 void print_buffer(char buffer[], int *buff_ind);
 
-<<<<<<< HEAD
-=======
-	for (; p[i].t != NULL; i++)
-	{
-		if (*(p[i].t) == *format)
-			break;
-	}
-	return (p[i].f);
-}
-
->>>>>>> 1f2b8c8cfc55922bb0f28809b4d22307e0cac4b7
 /**
  * _printf - Printf function
  * @format: format.
